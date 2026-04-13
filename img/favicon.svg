@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vignesh G R">
+  <defs>
+    <linearGradient id="vgr-bg" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000C66"/>
+      <stop offset="0.5" stop-color="#153a72"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#vgr-bg)"/>
+  <!-- Bold V — reads clearly at 16px tab size -->
+  <path fill="#ffffff" d="M32 47L12 15h11l9 17 9-17h11L32 47z"/>
+</svg>
